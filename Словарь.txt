@@ -1,0 +1,40 @@
+﻿Пыли:
+    S:itemGroup.dustDiv72=1/72ая Пыли
+	S:oredict.dustDiv72AntiChlorine.name=1/72ая часть Пыли Анти-Хлора
+		
+Impure Pile of Anti-Cerium Dust - Неочищенная Пыль Анти-Хлора
+	
+Purified Pile of Anti-Cerium Dust - Очищенная Пыль Анти-Хлора
+	
+Small Pile of Anti-Cerium Dust - Микро Пыль Анти-Хлора
+	
+Tiny Pile of Anti-Cerium Dust - Нано Пыль Анти-Хлора
+	
+Tin Dust - Оловянная пыль
+
+
+Слитки:
+Tin Ingot - Слиток Олова
+
+Crate of Annealed Copper Ingot - Ящик Слитков Прокаленной Меди
+
+Crate of Annealed Copper Plate - Ящик Пластин Прокаленной Меди
+
+
+Руда:
+
+Crushed Anti-Copper Ore - Дробленая Руда Анти-Меди
+Refined Anti-Copper Ore -  Рафинированная
+Purified - Очищенная
+
+
+Chunk - Кусок
+
+Trinitanium - Тринитан
+Vibramantium - Вибрамант
+
+
+Sifter - Просеиватель
+Просеивательный Стол Sifting Table
+
+Tungsten Carbide - Карбид Вольфрама
