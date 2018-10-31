@@ -13,6 +13,14 @@ Tiny Pile of Anti-Cerium Dust - Нано Пыль Анти-Хлора
 Tin Dust - Оловянная пыль
 
 
+Общее сокращение:
+
+1/72nd - 1/72ая
+Small - 1/4ая
+Tiny - 1/9ая
+
+Для пылей 1/nая часть
+
 Слитки:
 Tin Ingot - Слиток Олова
 
@@ -24,7 +32,7 @@ Crate of Annealed Copper Plate - Ящик Пластин Прокаленной 
 Руда:
 
 Crushed Anti-Copper Ore - Дробленая Руда Анти-Меди
-Refined Anti-Copper Ore -  Рафинированная
+Refined Anti-Copper Ore - Переработанная  Рафинированная
 Purified - Очищенная
 
 
@@ -38,3 +46,18 @@ Sifter - Просеиватель
 Просеивательный Стол Sifting Table
 
 Tungsten Carbide - Карбид Вольфрама
+
+Вольтажи:
+ULV - УНВ - Ультра Низкий Вольтаж
+LV - НВ - Низкий Вольтаж
+MV - СВ - Средний Вольтаж
+HV - ВВ - Высокий Вольтаж
+EV - ЭВ - Экстримальный Вольтаж
+IV - БВ - Безумный Вольтаж
+
+
+
+Double - Двойная
+Triple - Тройной
+Quadruple - Четверной
+Quintuple - Пятикратный
