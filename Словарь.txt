@@ -61,3 +61,7 @@ Double - Двойная
 Triple - Тройной
 Quadruple - Четверной
 Quintuple - Пятикратный
+
+
+Can Auto-Collect Items when harvesting Block - Может Авто-подбирать Предметы при уборке Блока
+Requires Air in front to work! - Для работы Необходим Воздух перед ним!
