@@ -56,6 +56,8 @@ EV - ЭВ - Экстримальный Вольтаж
 IV - БВ - Безумный Вольтаж
 
 
+Dense - Плотный
+
 
 Double - Двойная
 Triple - Тройной
@@ -65,3 +67,10 @@ Quintuple - Пятикратный
 
 Can Auto-Collect Items when harvesting Block - Может Авто-подбирать Предметы при уборке Блока
 Requires Air in front to work! - Для работы Необходим Воздух перед ним!
+
+
+Tungstate = Вольфрамат
+Black Quartz = Морион
+
+you cannot drink out of Buckets - нельзя пить из Ведра!
+you cannot place this - нельзя разместить!
